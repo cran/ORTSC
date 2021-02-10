@@ -1,0 +1,7 @@
+5096db95620df54e216cf2fd10b83da5 *DESCRIPTION
+ede1fa08478fe203f58d8b33c203edfe *NAMESPACE
+29f31316f952340b1619cd32add5dbe3 *R/GetLabels.R
+c4a3f7261f7925297dd8ad90566f9f5c *R/authenticate.R
+9702aa008112a6a3436c2254df5c92de *inst/extdata/ClassLogic.csv
+7cfabd253a4a12db90a97579063e75f7 *man/GetLabels.Rd
+c737f738ed782befdee4be0d51092dc5 *man/authenticate.Rd
